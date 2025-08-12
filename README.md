@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server that exposes Nmap CLI functionality as MCP tools using **FastMCP** with stdio transport. This server provides comprehensive network scanning capabilities through the Nmap command-line tool.
 
+<a href="https://glama.ai/mcp/servers/@mohdhaji87/Nmap-MCP-Server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@mohdhaji87/Nmap-MCP-Server/badge" alt="Nmap Server MCP server" />
+</a>
+
 ## 🚀 FastMCP Implementation
 
 This server is built using **FastMCP**, a modern, high-performance MCP framework that provides:
