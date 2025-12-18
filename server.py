@@ -78,7 +78,7 @@ def run_nmap_command(args: List[str], timeout: int = 300) -> Dict[str, Any]:
     except FileNotFoundError:
         return {
             "stdout": "",
-            "stderr": "nmap command not found. Please ensure nmap is installed and in PATH",
+            "stderr": "nmap command not found . Please ensure nmap is installed and in PATH",
             "exit_code": -1,
             "success": False
         }
